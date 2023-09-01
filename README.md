@@ -1,5 +1,4 @@
 # SENAC
-Repositório dedicado as atividades de programação orientada a objetos da minha faculdade
 
 Entrega de atividades da disciplina de Programação Orientada a Objetos - 2023/2
 
